@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another repository!
+
+Trying out my first branch and commit on GitHub.
